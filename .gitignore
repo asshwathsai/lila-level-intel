@@ -1,0 +1,6 @@
+node_modules/
+dist/
+player_data/
+*.nakama-0
+.env
+.vercel
