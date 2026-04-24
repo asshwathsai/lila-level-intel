@@ -2,7 +2,7 @@
 
 A browser-based player telemetry visualization tool for LILA BLACK's Level Design team. Turns 5 days of raw parquet gameplay data into an interactive map explorer.
 
-**Live URL:** *(add after Vercel deploy)*
+**Live URL:** https://lila-level-intel.vercel.app
 
 ---
 
